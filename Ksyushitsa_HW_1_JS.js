@@ -88,4 +88,4 @@ function funNumbers1(num) {
         console.log(num + " - скучное число.");
     }
 }
-    funNumbers1(true); //введите значение в скобки
+funNumbers1(true); //введите значение в скобки
