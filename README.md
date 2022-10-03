@@ -1,3 +1,3 @@
 # JS
 
-Here are my Java Script home works and projects.
+Here are my Java Script homeworks that I did during Vadim Ksendzov's course.
